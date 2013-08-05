@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "name": "rubydoop",
+      "url": "https://github.com/iconara/rubydoop",
+      "description": "Native JRuby integration for Hadoop",
+      "tags": ["jruby", "hadoop"]
+    },
+    {
+      "name": "hot_bunnies",
+      "url": "https://github.com/ruby-amqp/hot_bunnies",
+      "description": "Fast, idiomatic RabbitMQ driver for JRuby",
+      "tags": ["jruby", "rabbitmq"]
+    },
+    {
+      "name": "cql-rb",
+      "url": "https://github.com/iconara/cql-rb",
+      "description": "Cassandra CQL 3 binary protocol driver for Ruby",
+      "tags": ["ruby", "jruby", "cassandra"]
+    },
+    {
+      "name": "eurydice",
+      "url": "https://github.com/iconara/eurydice",
+      "description": "JRuby thrift-based driver for Cassandra",
+      "tags": ["jruby", "cassandra"]
+    },
+    {
+      "name": "autobahn",
+      "url": "https://github.com/burtcorp/autobahn",
+      "description": "Transport system abstraction for JRuby and RabbitMQ",
+      "tags": ["jruby", "rabbitmq"]
+    },
+    {
+      "name": "booster",
+      "url": "https://github.com/burtcorp/booster",
+      "description": "JavaScript dependency injection library, inspired by Angular.js",
+      "tags": ["javascript", "coffeescript"]
+    },
+    {
+      "name": "bundesstrasse",
+      "url": "https://github.com/jowl/bundesstrasse",
+      "description": "ZeroMQ bindings for Ruby and JRuby",
+      "tags": ["ruby", "jruby", "zmq"]
+    },
+    {
+      "name": "multimeter",
+      "url": "https://github.com/iconara/multimeter",
+      "description": "JRuby application metric instrumentation using Yammer's Metrics",
+      "tags": ["jruby"]
+    },
+    {
+      "name": "immutable_struct",
+      "url": "https://github.com/iconara/immutable_struct",
+      "description": "An immutable version of Ruby's Struct class",
+      "tags": ["ruby", "jruby"]
+    },
+    {
+      "name": "delay_queue",
+      "url": "https://github.com/iconara/delay_queue",
+      "description": "A Ruby queue implementation that returns the oldest elements first",
+      "tags": ["ruby", "jruby"]
+    },
+    {
+      "name": "msgpack-jruby",
+      "url": "https://github.com/iconara/msgpack-jruby",
+      "description": "JRuby bindings for MessagePack",
+      "tags": ["jruby"]
+    }
+  ]
+}
