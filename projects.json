@@ -65,6 +65,12 @@
       "url": "https://github.com/iconara/msgpack-jruby",
       "description": "JRuby bindings for MessagePack",
       "tags": ["jruby"]
+    },
+    {
+      "name": "ec2pricing",
+      "url": "https://github.com/iconara/ec2pricing",
+      "description": "EC2 Instance Types & Pricing information, available at ec2pricing.iconara.info",
+      "tags": ["aws"]
     }
   ]
 }
