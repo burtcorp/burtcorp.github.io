@@ -7,8 +7,8 @@
       "tags": ["jruby", "hadoop"]
     },
     {
-      "name": "hot_bunnies",
-      "url": "https://github.com/ruby-amqp/hot_bunnies",
+      "name": "march_hare",
+      "url": "https://github.com/ruby-amqp/march_hare",
       "description": "Fast, idiomatic RabbitMQ driver for JRuby",
       "tags": ["jruby", "rabbitmq"]
     },
@@ -16,7 +16,7 @@
       "name": "cql-rb",
       "url": "https://github.com/iconara/cql-rb",
       "description": "Cassandra CQL 3 binary protocol driver for Ruby",
-      "tags": ["ruby", "jruby", "cassandra"]
+      "tags": ["ruby", "cassandra"]
     },
     {
       "name": "eurydice",
@@ -49,12 +49,6 @@
       "tags": ["jruby"]
     },
     {
-      "name": "immutable_struct",
-      "url": "https://github.com/iconara/immutable_struct",
-      "description": "An immutable version of Ruby's Struct class",
-      "tags": ["ruby", "jruby"]
-    },
-    {
       "name": "delay_queue",
       "url": "https://github.com/iconara/delay_queue",
       "description": "A Ruby queue implementation that returns the oldest elements first",
@@ -71,6 +65,54 @@
       "url": "https://github.com/iconara/ec2pricing",
       "description": "EC2 Instance Types & Pricing information, available at ec2pricing.iconara.info",
       "tags": ["aws"]
+    },
+    {
+      "name": "humboldt",
+      "url": "https://github.com/burtcorp/humboldt",
+      "description": "Tools and libraries for simplifying running Rubydoop jobs locally and on AWS Elastic MapReduce",
+      "tags": ["hadoop", "aws"]
+    },
+    {
+      "name": "jarå",
+      "url": "https://github.com/burtcorp/jara",
+      "description": "Tools for building and releasing JRuby artifacts",
+      "tags": ["tools", "jruby"]
+    },
+    {
+      "name": "puck",
+      "url": "https://github.com/iconara/puck",
+      "description": "Package self-contained JARs from JRuby applications",
+      "tags": ["tools", "jruby"]
+    },
+    {
+      "name": "presso",
+      "url": "https://github.com/burtcorp/presso",
+      "description": "ZIP file utilities for JRuby",
+      "tags": ["jruby"]
+    },
+    {
+      "name": "ione",
+      "url": "https://github.com/iconara/ione",
+      "description": "A toolkit for reactive programming in Ruby",
+      "tags": ["ruby"]
+    },
+    {
+      "name": "ione-rpc",
+      "url": "https://github.com/iconara/ione-rpc",
+      "description": "A framework for building highly available networked clients and servers",
+      "tags": ["ruby"]
+    },
+    {
+      "name": "leveldb-jruby",
+      "url": "https://github.com/iconara/leveldb-jruby",
+      "description": "LevelDB bindings for JRuby",
+      "tags": ["jruby", "leveldb"]
+    },
+    {
+      "name": "etcd-rb",
+      "url": "https://github.com/iconara/etcd-rb",
+      "description": "A Ruby client for etcd",
+      "tags": ["ruby", "etcd"]
     }
   ]
 }
