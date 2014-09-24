@@ -113,6 +113,12 @@
       "url": "https://github.com/iconara/etcd-rb",
       "description": "A Ruby client for etcd",
       "tags": ["ruby", "etcd"]
+    },
+    {
+      "name": "tina",
+      "url": "https://github.com/burtcorp/tina",
+      "description": "CLI tool for restoring objects from Amazon Glacier over time in order to control costs",
+      "tags": ["ruby", "tools", "aws"]
     }
   ]
 }
